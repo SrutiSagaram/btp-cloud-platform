@@ -47,7 +47,7 @@ After you have completed the integration of the ABAP environment with SAP S/4HAN
 
 To learn more about how to use communication management apps in SAP S4/HANA systems to integrate with other systems, see [Communication Management](https://help.sap.com/viewer/0f69f8fb28ac4bf48d2b57b9637e81fa/latest/en-US/56cf82e75f2a42de827b5dc30e48db64.html).
 
-For more information about available services in SAP S/4HANA Cloud that can be consumed by external systems, search for services on the SAP API Business Hub at [http://api.sap.com](http://api.sap.com) or follow this [direct link](https://api.sap.com/package/SAPS4HANACloud?section=Artifacts).
+For more information about available services in SAP S/4HANA Cloud that can be consumed by external systems, search for services on the SAP Business Accelerator Hub at [http://api.sap.com](http://api.sap.com) or follow this [direct link](https://api.sap.com/package/SAPS4HANACloud?section=Artifacts).
 
 To find out how to consume services offered as part of SAP S/4HANA Cloud or other SAP products, see [API Management](https://help.sap.com/viewer/66d066d903c2473f81ec33acfe2ccdb4/Cloud/en-US/adcbc07b031b4ac285b22867a1216306.html).
 
