@@ -29,7 +29,7 @@ The SAP Business Technology Platform provides integration capabilities to ensure
 
     See: [SAP Cloud Identity Services](https://help.sap.com/docs/SAP_CLOUD_IDENTITY?version=Cloud) on SAP BTP.
 
--   Aligned Domain Models, APIs and Events: Master Data Integration is a cloud service for master data integration. It provides a consistent view on master data across a hybrid landscape. You can use APIs for process integration among SAP solutions, SAP, and third parties, or by adopting an event-based integration strategy – all based on predefined integration content available on SAP API Business Hub.
+-   Aligned Domain Models, APIs and Events: Master Data Integration is a cloud service for master data integration. It provides a consistent view on master data across a hybrid landscape. You can use APIs for process integration among SAP solutions, SAP, and third parties, or by adopting an event-based integration strategy – all based on predefined integration content available on SAP Business Accelerator Hub.
 
     See: [SAP One Domain Model](https://api.sap.com/sap-one-domain-model), [SAP Master Data Integration service](https://discovery-center.cloud.sap/serviceCatalog/master-data-integration?region=all), [SAP Integration Suite](https://www.sap.com/products/technology-platform/integration-suite.html) on SAP BTP
 
@@ -47,7 +47,7 @@ The SAP Business Technology Platform provides integration capabilities to ensure
 
 -   End-to-End Process Blueprints: Process blueprints that follow the Industry Reference Architecture standard can help you reduce planning effort for implementation projects and also support architecture decisions.
 
-    See: [SAP API Business Hub](https://api.sap.com/)
+    See: [SAP Business Accelerator Hub](https://api.sap.com/)
 
 
 Related information:
