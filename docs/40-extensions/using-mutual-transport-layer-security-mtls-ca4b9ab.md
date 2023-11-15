@@ -67,7 +67,7 @@ Before creating the HTTP destination, you have to generate an X509 certificate f
     -   In the *Certificate Common Name* field, enter the name of the technical user for consuming the SAP SuccessFactors HXM Suite OData API.
 
         > ### Note:  
-        > The technical user can be any user with the respective permissions. These permissions depend on the use case and the API you want to access. To find out which permission you need to assign to the technical user, go to [SAP API Business Hub](https://api.sap.com/), find the SAP SuccessFactors API you want to access and from the *Overview* tab go to the *Documentation* section and open the *help.sap.com* link. There you find the right information for each API.
+        > The technical user can be any user with the respective permissions. These permissions depend on the use case and the API you want to access. To find out which permission you need to assign to the technical user, go to [SAP Business Accelerator Hub](https://api.sap.com/), find the SAP SuccessFactors API you want to access and from the *Overview* tab go to the *Documentation* section and open the *help.sap.com* link. There you find the right information for each API.
 
     -   \(Optional\) In the *Certificate Validity Time Unit* dropdown menu, select whether you want to set a validity for the certificate in days, months, or years.
 
