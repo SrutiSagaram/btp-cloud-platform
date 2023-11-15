@@ -161,7 +161,7 @@ The **Resource Consumption** APIs of the SAP Usage Data Management service for S
 
 5.  Choose the API that you want to call, provide the relevant parameters, and choose *Run*.
 
-To learn more about the SAP Business Accelerator Hub, see [What Is the SAP API Business Hub?](https://help.sap.com/viewer/e56a6c50d31541ea826021dc8e721a53/Cloud/en-US/54871d308811444d8d84fbb3fb82cf4c.html)
+To learn more about the SAP Business Accelerator Hub, see [What Is SAP Business Accelerator Hub?](https://help.sap.com/viewer/e56a6c50d31541ea826021dc8e721a53/Cloud/en-US/54871d308811444d8d84fbb3fb82cf4c.html)
 
 **Related Information**  
 
