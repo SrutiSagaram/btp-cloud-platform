@@ -10,7 +10,7 @@ Use the service JSON descriptor for the Cloud Foundry environment or the service
 
 ## Context
 
-To construct the JSON file for the Cloud Foundry environment or the YAML file for the Kyma environment for the SAP S/4HANA Cloud APIs you want to use, you can use these parameters. To access the specific documentation of these APIs, see [SAP S/4HANA Cloud APIs at SAP API Business Hub](https://api.sap.com/package/SAPS4HANACloud?section=Artifacts).
+To construct the JSON file for the Cloud Foundry environment or the YAML file for the Kyma environment for the SAP S/4HANA Cloud APIs you want to use, you can use these parameters. To access the specific documentation of these APIs, see [SAP S/4HANA Cloud APIs at SAP Business Accelerator Hub](https://api.sap.com/package/SAPS4HANACloud?section=Artifacts).
 
 The information that you need to construct the JSON or the YAML file is available in the Display Communication Scenario application in the corresponding SAP S/4HANA Cloud system. It contains information such as scenario details and properties, and supported inbound and outbound authentication methods. See [Display Communication Scenarios](https://help.sap.com/viewer/f544846954f24b9183eddadcc41bdc3b/latest/en-US/baa798b6a1024d229ca3f51bde6f24f9.html).
 
